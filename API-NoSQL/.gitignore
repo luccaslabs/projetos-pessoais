@@ -1,0 +1,6 @@
+.env
+serviceAccountKey.json
+uploads/
+__pycache__/
+.pytest_cache/
+*.pyc
